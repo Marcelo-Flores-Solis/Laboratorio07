@@ -9,3 +9,9 @@ p {
     text-align: center;
     font-size: 24px;
 }
+.caja {
+    background-color: yellow;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 15px;
+}
