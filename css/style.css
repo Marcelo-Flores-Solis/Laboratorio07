@@ -29,3 +29,15 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+.borde {
+    border: 2px solid black;
+}
+.fondo {
+    background-color: lightgray;
+}
+.redondeado {
+    border-radius: 10px;
+}
+.sombra {
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
