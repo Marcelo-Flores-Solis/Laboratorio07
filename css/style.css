@@ -15,3 +15,9 @@ p {
     padding: 10px;
     margin: 15px;
 }
+
+#unico {
+    color: blue;
+    font-weight: bold;
+    border: 3px solid red;
+}
